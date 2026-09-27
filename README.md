@@ -7,11 +7,8 @@ I make AI content and explainer videos, and I build the tools behind them. These
 | [![WhatsApp message journey](https://github.com/IsraelFemiOjo/whatsapp-message-journey/raw/main/docs/whatsapp-3d.gif)](https://github.com/IsraelFemiOjo/whatsapp-message-journey) | [![Meta Connect 2026 recap](https://github.com/IsraelFemiOjo/meta-connect-2026-recap/raw/main/docs/meta-connect.gif)](https://github.com/IsraelFemiOjo/meta-connect-2026-recap) |
 | **[What happens when you hit send on WhatsApp](https://github.com/IsraelFemiOjo/whatsapp-message-journey)**<br>3D explainer, Lagos to London in under a second | **[Meta Connect 2026 recap](https://github.com/IsraelFemiOjo/meta-connect-2026-recap)**<br>The new glasses in a sketchbook style |
 | [![Sol and Luna](https://github.com/IsraelFemiOjo/sol-and-luna-animation/raw/main/docs/sol-and-luna.gif)](https://github.com/IsraelFemiOjo/sol-and-luna-animation) | [<img src="https://github.com/user-attachments/assets/a408bc8e-99df-4385-96e0-38d30bd36332" width="360" alt="Reverse CAPTCHA">](https://israelfemiojo.github.io/claude-opus-5-5-reverse-captcha/) |
-| **[Sol and Luna](https://github.com/IsraelFemiOjo/sol-and-luna-animation)**<br>Hand painted character launch animation | |
-
-**[Reverse CAPTCHA]https://israelfemiojo.github.io/claude-opus-5-5-reverse-captcha/**: a playful site that checks if you are still human.
+| **[Sol and Luna](https://github.com/IsraelFemiOjo/sol-and-luna-animation)**<br>Hand painted character launch animation | **[Reverse CAPTCHA](https://israelfemiojo.github.io/claude-opus-5-5-reverse-captcha/)**<br>A playful site that checks if you are still human |
 
 My portfolio: [israelfemiojo.github.io/israel-femi-ojo-portfolio](https://israelfemiojo.github.io/israel-femi-ojo-portfolio/)
 
 Find me on X: [@israelfemiojo](https://x.com/israelfemiojo)
-<img width="1734" height="907" alt="preview" src="https://github.com/user-attachments/assets/a408bc8e-99df-4385-96e0-38d30bd36332" />
