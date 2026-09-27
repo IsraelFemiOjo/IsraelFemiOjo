@@ -9,7 +9,7 @@ I make AI content and explainer videos, and I build the tools behind them. These
 | [![Sol and Luna](https://github.com/IsraelFemiOjo/sol-and-luna-animation/raw/main/docs/sol-and-luna.gif)](https://github.com/IsraelFemiOjo/sol-and-luna-animation) | |
 | **[Sol and Luna](https://github.com/IsraelFemiOjo/sol-and-luna-animation)**<br>Hand painted character launch animation | |
 
-**[Reverse CAPTCHA](REPLACE_WITH_YOUR_REVERSE_CAPTCHA_LINK)**: a playful site that checks if you are still human.
+**[Reverse CAPTCHA]https://israelfemiojo.github.io/claude-opus-5-5-reverse-captcha/**: a playful site that checks if you are still human.
 
 My portfolio: [israelfemiojo.github.io/israel-femi-ojo-portfolio](https://israelfemiojo.github.io/israel-femi-ojo-portfolio/)
 
